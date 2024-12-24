@@ -57,9 +57,9 @@
   /* solid */
 
   --jet: hsl(0, 0%, 22%); /*hsl(0, 0%, 22%) --thin separation line below name*/
-  --onyx: hsl(222, 88%, 33%); /*hsl(240, 1%, 17%) --*/
+  --onyx: hsl(240, 1%, 17%); /*hsl(240, 1%, 17%) --position title background*/
   --eerie-black-1: hsl(240, 2%, 13%); /*hsl(240, 2%, 13%) --side icon background*/
-  --eerie-black-2: hsl(240, 2%, 12%); /*hsl(240, 2%, 12%)*/
+  --eerie-black-2: hsl(222, 88%, 33%); /*hsl(240, 2%, 12%) --*/
   --smoky-black: hsl(180, 25%, 95%); /*hsl(0, 0%, 7%) -- overall background*/
   --white-1: hsl(0, 0%, 100%); /*hsl(0, 0%, 100%) --position title*/
   --white-2: hsl(0, 0%, 98%); /*hsl(0, 0%, 98%) --headings*/
