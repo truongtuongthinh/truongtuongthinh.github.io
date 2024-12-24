@@ -61,8 +61,8 @@
   --eerie-black-1: hsl(240, 2%, 13%); /*hsl(240, 2%, 13%)*/
   --eerie-black-2: hsl(240, 2%, 12%); /*hsl(240, 2%, 12%)*/
   --smoky-black: hsl(180, 25%, 95%); /*hsl(0, 0%, 7%) -- background*/
-  --white-1: hsl(222, 88%, 33%); /*hsl(0, 0%, 100%)*/
-  --white-2: hsl(0, 0%, 98%); /*hsl(0, 0%, 98%)*/
+  --white-1: hsl(0, 0%, 100%); /*hsl(0, 0%, 100%) --position title*/
+  --white-2: hsl(222, 88%, 33%); /*hsl(0, 0%, 98%)*/
   --orange-yellow-crayola: hsl(45, 100%, 72%); /*hsl(45, 100%, 72%)*/
   --vegas-gold: hsl(45, 54%, 58%); /*hsl(45, 54%, 58%)*/
   --light-gray: hsl(0, 0%, 84%); /*hsl(0, 0%, 84%)*/
