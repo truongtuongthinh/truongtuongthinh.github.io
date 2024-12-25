@@ -68,6 +68,7 @@
   --light-gray: hsl(229, 67%, 10%); /*hsl(0, 0%, 84%) -- all contents + side icon ==*/
   --light-gray-70: hsla(229, 67%, 10%, 0.7); /*hsla(0, 0%, 84%, 0.7) -- side icon lines==*/
   --bittersweet-shimmer: hsl(8, 69%, 47%); /*hsl(0, 43%, 51%) -- red*/
+  --navbar-bg: hsla(229, 90%, 57%, 0.75);
 
   /**
    * typography
@@ -459,7 +460,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(240, 1%, 17%, 0.75);
+  background: var(--navbar-bg);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
