@@ -65,8 +65,8 @@
   --white-2: hsl(0, 0%, 98%); /*hsl(0, 0%, 98%) -- headings*/
   --orange-yellow-crayola: hsl(222, 88%, 33%); /*hsl(45, 100%, 72%) -- navigation buttons*/
   --vegas-gold: hsl(45, 54%, 58%); /*hsl(45, 54%, 58%) -- resume subheadings*/
-  --light-gray: hsl(222, 88%, 33%); /*hsl(0, 0%, 84%) -- blue */
-  --light-gray-70: hsla(0, 0%, 84%, 0.7); /*hsla(0, 0%, 84%, 0.7)*/
+  --light-gray: hsl(0, 0%, 84%); /*hsl(0, 0%, 84%) -- all contents + side icon */
+  --light-gray-70: hsla(222, 88%, 33%, 0.7); /*hsla(0, 0%, 84%, 0.7) --blue*/
   --bittersweet-shimmer: hsl(8, 69%, 47%); /*hsl(0, 43%, 51%) -- red*/
 
   /**
