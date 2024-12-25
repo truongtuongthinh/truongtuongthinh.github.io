@@ -58,11 +58,11 @@
 
   --jet: hsl(0, 0%, 22%); /*hsl(0, 0%, 22%) -- thin separation line below name*/
   --onyx: hsl(195, 100%, 100%); /*hsl(240, 1%, 17%) -- position title background==*/
-  --eerie-black-1: hsl(195, 100%, 99%); /*hsl(240, 2%, 13%) -- side icon background==*/
-  --eerie-black-2: hsl(195, 100%, 98%); /*hsl(240, 2%, 12%) -- content background==*/
+  --eerie-black-1: hsl(207, 100%, 99%); /*hsl(240, 2%, 13%) -- side icon background==*/
+  --eerie-black-2: hsl(207, 100%, 98%); /*hsl(240, 2%, 12%) -- content background==*/
   --smoky-black: hsl(207, 36%, 95%); /*hsl(0, 0%, 7%) -- overall background==*/
-  --white-1: hsl(0, 0%, 100%); /*hsl(0, 0%, 100%) -- position title*/
-  --white-2: hsl(0, 0%, 98%); /*hsl(0, 0%, 98%) -- headings*/
+  --white-1: hsl(229, 67%, 10%); /*hsl(0, 0%, 100%) -- position title*/
+  --white-2: hsl(229, 67%, 10%); /*hsl(0, 0%, 98%) -- headings*/
   --orange-yellow-crayola: hsl(45, 100%, 72%); /*hsl(45, 100%, 72%) -- navigation buttons*/
   --vegas-gold: hsl(45, 54%, 58%); /*hsl(45, 54%, 58%) -- resume subheadings*/
   --light-gray: hsl(229, 67%, 10%); /*hsl(0, 0%, 84%) -- all contents + side icon ==*/
