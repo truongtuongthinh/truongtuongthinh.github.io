@@ -56,8 +56,8 @@
 
   /* solid */
 
-  --jet: hsl(0, 0%, 22%); /*hsl(0, 0%, 22%) -- thin separation line below name*/
-  --onyx: hsl(195, 100%, 100%); /*hsl(240, 1%, 17%) -- position title background==*/
+  --jet: hsl(230, 83%, 57%); /*hsl(0, 0%, 22%) -- thin separation line below name*/
+  --onyx: hsl(230, 83%, 57%); /*hsl(240, 1%, 17%) -- position title background==*/
   --eerie-black-1: hsl(207, 100%, 99%); /*hsl(240, 2%, 13%) -- side icon background==*/
   --eerie-black-2: hsl(207, 100%, 98%); /*hsl(240, 2%, 12%) -- content background==*/
   --smoky-black: hsl(207, 36%, 95%); /*hsl(0, 0%, 7%) -- overall background==*/
