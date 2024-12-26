@@ -54,7 +54,7 @@
     hsl(35, 100%, 68%)
   );
 
-  /* solid */
+  /* solid */ 
 
   --jet: hsl(230, 83%, 57%); /*hsl(0, 0%, 22%) -- thin separation line below name*/
   --onyx: hsl(230, 83%, 57%); /*hsl(240, 1%, 17%) -- position title background==*/
@@ -262,12 +262,12 @@ article.active {
 }
 
 .has-scrollbar::-webkit-scrollbar-track {
-  background: var(--onyx);
+  background: var(--navbar-bg); /*onyx*/
   border-radius: 5px;
 }
 
 .has-scrollbar::-webkit-scrollbar-thumb {
-  background: var(--orange-yellow-crayola);
+  background: var(--vegas-gold);
   border-radius: 5px;
 }
 
