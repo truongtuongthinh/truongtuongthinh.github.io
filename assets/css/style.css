@@ -1148,8 +1148,10 @@ main {
 
 .mapbox {
   position: relative;
-  height: 250px;
-  width: 100%;
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
   border-radius: 16px;
   margin-bottom: 30px;
   border: 1px solid var(--jet);
