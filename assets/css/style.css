@@ -1149,7 +1149,7 @@ main {
 .mapbox {
   position: relative;
   height: auto; 
-  width: auto; 
+  width: 100%; 
   max-width: 300px; 
   max-height: 300px;
   border-radius: 16px;
