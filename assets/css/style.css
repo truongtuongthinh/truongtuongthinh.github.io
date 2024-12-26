@@ -25,9 +25,9 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
-    hsl(0, 0%, 19%) 97%
-  ); /* grey scale*/
+    hsl(205, 100%, 92%) 3%, 
+    hsl(204, 100%, 87%) 97%
+  ); /* grey scale hsl(240, 1%, 25%) - hsl(0, 0%, 19%) */
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
