@@ -27,7 +27,7 @@
     to bottom right, 
     hsl(240, 1%, 25%) 3%, 
     hsl(0, 0%, 19%) 97%
-  );
+  ); /* grey scale*/
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
@@ -63,7 +63,7 @@
   --smoky-black: hsl(207, 36%, 95%); /*hsl(0, 0%, 7%) -- overall background==*/
   --white-1: hsl(207, 36%, 95%); /*hsl(0, 0%, 100%) -- position title*/
   --white-2: hsl(229, 67%, 10%); /*hsl(0, 0%, 98%) -- headings*/
-  --orange-yellow-crayola: hsl(45, 100%, 72%); /*hsl(45, 100%, 72%) -- navigation buttons*/
+  --orange-yellow-crayola: hsl(229, 67%, 10%); /*hsl(45, 100%, 72%) -- navigation buttons*/
   --vegas-gold: hsl(230, 83%, 57%); /*hsl(45, 54%, 58%) -- resume subheadings*/
   --light-gray: hsl(229, 67%, 10%); /*hsl(0, 0%, 84%) -- all contents + side icon ==*/
   --light-gray-70: hsla(229, 67%, 10%, 0.7); /*hsla(0, 0%, 84%, 0.7) -- side icon lines==*/
